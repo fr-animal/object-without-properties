@@ -1,0 +1,19 @@
+{
+  "name": "object-without-properties",
+  "version": "0.0.1",
+  "description": "Returns an object without the properties you specify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr-animal/object-without-properties.git"
+  },
+  "author": "Joseph Gordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fr-animal/object-without-properties/issues"
+  },
+  "homepage": "https://github.com/fr-animal/object-without-properties#readme"
+}
