@@ -2,5 +2,6 @@
 Returns an object without the properties you specify
 
 ```
-objectWithoutProperties({a:'b', c: 'd', e: 'f'}, ['c', 'e']) // {a: 'b'} 
+import objectWithoutProperties from 'object-without-properties'
+objectWithoutProperties({a:'b', c: 'd', e: 'f'}, ['c', 'e']) // {a: 'b'}
 ```

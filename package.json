@@ -1,6 +1,6 @@
 {
   "name": "object-without-properties",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Returns an object without the properties you specify",
   "main": "index.js",
   "scripts": {
