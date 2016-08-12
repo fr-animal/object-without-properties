@@ -3,7 +3,7 @@ module.exports = function objectWithoutProperties (object, properties) {
 
   var obj = {}
   var keys = Object.keys(object)
-  keys.forEach((key) => {
+  keys.forEach(function(key){
     if (!~properties.indexOf(key)) {
       obj[key] = object[key]
     }
